@@ -1,7 +1,7 @@
 # MMS
 Medical Management System
 
-Knowing about the numerous problems in our country's health department, we came up with the idea of building a management system for hospitals that will solve the problem of long lines when waiting for a visit and loss of data as consequence of it not being digital.
+Knowing about the numerous problems in our country's health department, we came up with the idea of building a management system that will solve the problem of long lines when waiting for a visit and loss of data as consequence of it not being digital.
 
 Our project consists of a Web-based Application with two main points:
 1. A system for leaving appointments online
