@@ -1,20 +1,20 @@
 # MMS
 Medical Management System
 
-Knowing about the numerous problems in our country's health department, we came up with the idea of building a management system that will solve the problem of long lines when waiting for a visit and loss of data as consequence of it not being digital.
+Taking into consideration the numerous problems in our country’s health department such as medical records being on paper and people waiting in long lines, we came up with the idea of creating a Web-based Application to digitalize the way the public hospitals in our country work. 
 
-Our project consists of a Web-based Application with two main points:
-1. A system for leaving appointments online
-2. A system where every patient has its own medical history (anamnesis) stored in digital form
+Our project will be based on these main points:
+  •	Leaving appointments online
+  •	Keeping medical records of each patient in digital form
+  
+The implementation of the idea will work closely with polyclinics by having access at their databases for patients they forward to us. Polyclinic’s doctors will be the one to leave appointments for their patients depending on the hospital doctor’s timetable and also share the medical records of the patient with that doctor. 
 
-Every patient can easily create his/her own account/profile in the MMS with their personal information and also if they would like to, they are able to write other previous or current medical conditions.
+Each doctor will have his/her own account where he/she can add patients, leave appointments (this is done by polyclinic’s doctors), cancel them, write prescriptions, check the medical records of a patient and alter them if needed.
+Receptionists’ accounts will be mostly of an observing nature, without any power to make changes except to add patients in cases of emergency.
 
-By having created their account, each patient can choose their doctor in order to have a consultation and set up an appointment at the time and dates available in the MMS.
+Also, in our system we will keep track of each doctor’s timetable and display how the shifts are going to be. This will be done by specific people in the administrative part who will have their own accounts too.
 
-If needed (if the doctor asked them) the patient can select the most convenient date and time for their tests/analysis to be taken.
+In addition, the project will consist of a separate part of the emergency section of the hospital to hold records of when the patient comes, what was his problem and which doctor attended to his needs.
 
-As soon as the tests reports are ready, they will be available for both the patient and the doctor in the MMS. In this way, the doctor can write its own comments and give diagnosis and also prescriptions if needed.
 
-Thus, it would be easier for both the doctor and the patient to keep track and be aware of medical history (anamnesis).
 
-There will be also an online chat in order for the patients to communicate with the doctors in case they have any emergencies or questions.
