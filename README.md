@@ -14,15 +14,13 @@ Our project will be based on these main points:
     •	Showing medical personnel timetables
 
   
-The implementation of the idea will work closely with polyclinics by having access at their databases for patients they forward to us. Polyclinic’s receptionists, which will have their own account in our system, will be the one to leave appointments for the patients depending on the hospital doctor’s timetable and also share the medical records of the patient with that doctor. 
+The implementation of the idea will work closely with polyclinics by having access at their databases for patients they forward to our system. Polyclinic’s receptionists, which will have their own account in our system, will be the ones to set appointments for their patients depending on the hospital doctor’s timetable and also share the medical records of the patient with that doctor. After the specialist doctor finishes the appointments, updated patient records are sent back for download.
 
-Each doctor will have his/her own account where he/she can add patients, leave appointments (this is done by polyclinic’s receptionists), cancel them, write prescriptions, check the medical records of a patient and alter them if needed. In addition the specialist doctor can send requests to the hospital's receptionist to reserve a bed to hospitalize a patient, if he sees it necessary after an appointment.  
+Each doctor will have his/her own account where he/she can add patients, set new appointments (this is done by polyclinic’s receptionists mainly/mostly), cancel them, write appointment notes which are added to patient records, check the medical records of a patient, check hospitalized patients’ progress. In addition the specialist doctor can send requests to the hospital receptionist to reserve a bed to hospitalize a patient, if he sees it necessary after an appointment. 
 
-Hospital receptionists’ accounts will be mostly of an observing nature, without any power to make changes except adding patients in cases of emergency and choosing which bed to put the hospitalized patients.
+Also, in our system we will keep track of each doctor’s timetable and display how the shifts are going to be. Besides doctors, higher ups in administrate will have their own accounts, where they can make changes in timetables, shifts and in personnel such as adding/removing doctors, nurses and receptionists.  
 
-Also, in our system we will keep track of each doctor’s timetable and display how the shifts are going to be. This will be done by specific people in the administrative part who will have their own accounts too.
+Hospital receptionists will also have accounts but mostly of an observing nature, they won’t be able to make any changes but only check hospitalization information, inform on them during visiting hours but also add new entries for people who come for an emergency and reserve beds for patients who will be hospitalized.
 
-Nurses will have their own accounts, where they submit reports on the progress of the hospitalized patients.
-
-In addition, the project will consist of a separate part of the emergency section of the hospital to hold records of when the patient comes, what was his problem and which doctor attended to his needs.
-
+Nurses will have their own accounts, where they see hospitalized patients in their ward and submit reports on their progress.
+In addition, the project will consist of a separate part for the emergency section of the hospital to hold records of when the patient comes, his basic personal information, what were his symptoms. This information as we said will be added by the hospital receptionists and doctors on duty call.
